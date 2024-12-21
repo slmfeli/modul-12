@@ -1,1 +1,3 @@
-# modul-12
+1. Program tersebut menyatakan rumah kerabat Hercules dimana masukan baris pertama merupakan banyak daerah kerabatnya, baris selanjutnya pada urutan pertama merupakan banyaknya rumah kerabat dan selanjutnya nomor rumahnya. Keluaran terdiri dari serangkaian rumah kerabatnya yang sudah terurut membesar ditiap masing-masing daerah.
+2. program tersebut sama dengan nomor 1 juga masukannya hanya saja keluaran pada baris pertama menghasilkan bilangan genap dan ganjil, baris kedua berisi bilangan ganjil saja dan baris ketiga berisi bilangan genap saja.
+3. program tersebut dibuat untuk mencari median dari suatu bilangan dimana masukan memiliki aturan angka 0 hanya untuk harus dicetak kemudian data inputan diakhiri dengan -5313. Keluaran akan langsung memunculkan median disetiap data yang akhirannya 0.
